@@ -2,7 +2,7 @@
 
 # Actividades
 * .[1_Sitioweb] (https://fuenteskire.github.io/p1_lloc-web/)
-* .[2_CMYK]
+* .[2_CMYK] (https://fuenteskire.github.io/p2_CMYK/)
 * .[3_Broom]
 * .[4_Maquetacion]
 * .[6_Tarjetas]
