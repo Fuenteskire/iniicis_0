@@ -7,7 +7,7 @@
 * .[4_Maquetacion] (https://fuenteskire.github.io/p4_Maqueta-ao/)
 * .[5_Tarjetas] (https://fuenteskire.github.io/p5_tarjetes/)
 * .[6_landing Pages] (https://fuenteskire.github.io/p6_landig-pages/)
-* .[7_grid] (https://fuenteskire.github.io/p7_grid/)
+* .[7_grid] (https://fuenteskire.github.io/p7_grid2/)
 * .[8_Practica MOMA]
 
 ## Pàginas clase
