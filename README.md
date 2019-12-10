@@ -8,7 +8,7 @@
 * .[5_Tarjetas] (https://fuenteskire.github.io/p5_tarjetes/)
 * .[6_landing Pages] (https://fuenteskire.github.io/p6_landig-pages/)
 * .[7_grid] (https://fuenteskire.github.io/p7_grid/)
-* .[8_Practica MOMA]
+* .[8_Practica MOMA] (https://fuenteskire.github.io/p8_minimalissimo/)
 
 ## Pàginas clase
 * [Pàginas clase 2GP](https://arquesm.github.io/2GP/)
