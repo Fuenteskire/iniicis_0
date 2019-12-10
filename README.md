@@ -3,7 +3,7 @@
 # Actividades
 * .[1_Sitioweb] (https://fuenteskire.github.io/p1_lloc-web/)
 * .[2_CMYK] (https://fuenteskire.github.io/p2_CMYK/)
-* .[3_Broom]
+* .[3_Broom] (https://fuenteskire.github.io/p3_broom/)
 * .[4_Maquetacion]
 * .[6_Tarjetas]
 * .[7_landing Pages]
