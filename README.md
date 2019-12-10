@@ -5,7 +5,7 @@
 * .[2_CMYK] (https://fuenteskire.github.io/p2_CMYK/)
 * .[3_Broom] (https://fuenteskire.github.io/p3_broom/)
 * .[4_Maquetacion] (https://fuenteskire.github.io/p4_Maqueta-ao/)
-* .[5_Tarjetas]
+* .[5_Tarjetas] (https://fuenteskire.github.io/p5_tarjetes/)
 * .[6_landing Pages]
 * .[7_grid]
 * .[8_Practica MOMA]
