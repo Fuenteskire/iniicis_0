@@ -10,6 +10,7 @@
 * .[7_grid] (https://fuenteskire.github.io/p7_grid/)
 * .[8_Practica MOMA] (https://fuenteskire.github.io/p8_minimalissimo/)
 * .[9_Transform] ( https://fuenteskire.github.io/p9_transform/)
+* .[Exam] ()
 
 ## Pàginas clase
 * [Pàginas clase 2GP](https://arquesm.github.io/2GP/)
