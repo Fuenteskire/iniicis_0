@@ -11,7 +11,7 @@
 * .[8_Practica MOMA] (https://fuenteskire.github.io/p8_minimalissimo/)
 * .[9_Transform] ( https://fuenteskire.github.io/p9_transform/)
 * .[Exam] (https://fuenteskire.github.io/Examen/)
-* .[JavaS. Iván i Erik, práctica en parelles] ()
+* .[JavaS. Iván i Erik, práctica en parelles] (https://fuenteskire.github.io/JavaS---Iv-n---Erik/)
 
 ## Pàginas clase
 * [Pàginas clase 2GP](https://arquesm.github.io/2GP/)
