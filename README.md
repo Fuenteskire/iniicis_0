@@ -14,7 +14,7 @@
 * .[JavaS. Iván i Erik, práctica en parelles] (https://fuenteskire.github.io/JavaS---Iv-n---Erik/)
 * .[Aesop] (https://fuenteskire.github.io/Aesop/)
 * .[Javas_Erik_Pablo] (https://fuenteskire.github.io/Practica_javas_Erik_Pablo/)
-* .[Portfoli] ()
+* .[Portfoli] (https://fuenteskire.github.io/Portfoli/)
 
 ## Pàginas clase
 * [Pàginas clase 2GP](https://arquesm.github.io/2GP/)
