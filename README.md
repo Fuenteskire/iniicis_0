@@ -12,9 +12,9 @@
 * .[9_Transform] ( https://fuenteskire.github.io/p9_transform/)
 * .[Exam] (https://fuenteskire.github.io/Examen/)
 * .[JavaS. Iván i Erik, práctica en parelles] (https://fuenteskire.github.io/JavaS---Iv-n---Erik/)
-* .[Aesop]
-* .[Javas_Erik_Pablo]
-* .[Portfoli]
+* .[Aesop] (https://fuenteskire.github.io/Aesop/)
+* .[Javas_Erik_Pablo] ()
+* .[Portfoli] ()
 
 ## Pàginas clase
 * [Pàginas clase 2GP](https://arquesm.github.io/2GP/)
