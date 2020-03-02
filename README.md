@@ -13,7 +13,7 @@
 * .[Exam] (https://fuenteskire.github.io/Examen/)
 * .[JavaS. Iván i Erik, práctica en parelles] (https://fuenteskire.github.io/JavaS---Iv-n---Erik/)
 * .[Aesop] (https://fuenteskire.github.io/Aesop/)
-* .[Javas_Erik_Pablo] ()
+* .[Javas_Erik_Pablo] (https://fuenteskire.github.io/Practica_javas_Erik_Pablo/)
 * .[Portfoli] ()
 
 ## Pàginas clase
