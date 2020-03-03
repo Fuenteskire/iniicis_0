@@ -15,6 +15,7 @@
 * .[Aesop] (https://fuenteskire.github.io/Aesop/)
 * .[Javas_Erik_Pablo] (https://fuenteskire.github.io/Practica_javas_Erik_Pablo/)
 * .[Portfoli] (https://fuenteskire.github.io/Portfoli/)
+* .[Exam2] (https://fuenteskire.github.io/Examen2/)
 
 ## Pàginas clase
 * [Pàginas clase 2GP](https://arquesm.github.io/2GP/)
