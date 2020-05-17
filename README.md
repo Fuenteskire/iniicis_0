@@ -1,13 +1,13 @@
 # iniicis_0
 
 # Actividades
-* .[1_Sitioweb] (https://fuenteskire.github.io/p1_llocweb/)
+* .[1_Llocweb] (https://fuenteskire.github.io/p1_llocweb/)
 * .[2_CMYK] (https://fuenteskire.github.io/p2_CMYK/)
 * .[3_Broom] (https://fuenteskire.github.io/p3_broom/)
 * .[4_Maquetacion] (https://fuenteskire.github.io/p4_Maqueta-ao/)
 * .[5_Tarjetas] (https://fuenteskire.github.io/p5_tarjetes/)
 * .[6_landing Pages] (https://fuenteskire.github.io/p6_landig-pages/)
-* .[7_grid] (https://fuenteskire.github.io/p7_grid/)
+* .[7_gridArea] (https://fuenteskire.github.io/p7_grid/)
 * .[8_Practica MOMA] (https://fuenteskire.github.io/p8_minimalissimo/)
 * .[9_Transform] ( https://fuenteskire.github.io/p9_transform/)
 * .[Exam] (https://fuenteskire.github.io/Examen/)
