@@ -16,7 +16,7 @@
 
 * .[9_Transform] ( https://fuenteskire.github.io/p9_transform/)
 * .[Exam1er] (https://fuenteskire.github.io/Examen/)
-* .[Exam2] (https://fuenteskire.github.io/Examen2/)
+* .[1Exam2ntrim] (https://fuenteskire.github.io/1Exam_2ntrim/)
 
 ## Pàginas clase
 * [Pàginas clase 2GP](https://arquesm.github.io/2GP/)
